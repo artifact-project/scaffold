@@ -1,7 +1,9 @@
 {
-  "name": "@artifact-project/package-scaffold",
+  "name": "",
   "version": "0.1.0",
-  "description": "Scaffold package for Artifact project",
+  "description": "Scaffold for Artifact project",
+  "author": "",
+  "license": "MIT",
   "main": "index.ts",
   "scripts": {
     "test": "jest --coverage",
@@ -10,8 +12,6 @@
     "prepublish": "npm run test && npm run ts-build",
     "postpublish": "npm run ts-clean"
   },
-  "author": "",
-  "license": "MIT",
   "files": [
     "*.js",
     "*.d.ts",

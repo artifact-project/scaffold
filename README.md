@@ -1,5 +1,5 @@
-Project scaffold
-----------------
+Scaffold
+--------
 
 
 ### Development
