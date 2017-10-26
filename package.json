@@ -4,6 +4,7 @@
   "description": "Scaffold for Artifact project",
   "author": "",
   "license": "MIT",
+  "repository": "git@github.com:artifact-project/scaffold.git",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
